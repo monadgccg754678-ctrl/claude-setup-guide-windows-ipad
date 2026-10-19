@@ -1,8 +1,9 @@
 {
   "files": {
+    ".gitattributes": "0866649a29f3ebf50f935370547860ca38646c3c7d00b9924c2cc95e65f058ac",
     ".gitignore": "29d98e57738b3097cf43d3f351df9be6766d48a0b522393e1b5437a9587988f0",
     "agents/openai.yaml": "77f7b07e49ad3a01d1cd9f61e5ef30867346474bb53a4af6b77a84ad6cf22014",
-    "AGENTS.md": "eec61602b5bf3d8fb20cf125de7a7f7eb8d9ca3f8f6024d38af129504f3c099a",
+    "AGENTS.md": "ab78aac6baaf087cdb723254f88690920ab8af99ac5ea0228e69e61d599daafa",
     "assets/images/apple/01.jpg": "f8c3ef0157153840a111cdc2654e4da8f5ddf5079502e4f28921e879f5ea1f19",
     "assets/images/apple/02.jpg": "4517e514a089d19e643323f24efd06ea843339019c3760c36029037d49eba28e",
     "assets/images/apple/03.jpg": "96d8fcb91ec2d48d110a93fe06fe5a8932d6925d12f90514259d25a41f37f7e3",
@@ -68,7 +69,7 @@
     "docs/superpowers/specs/2026-10-13-iphone-network-gate-design.md": "ee5ffae0658105f63752b44a5e621aaf94bc22456926d44e14c10f837f7a0afe",
     "docs/superpowers/specs/2026-10-13-update-notification-design.md": "35484633b13f14c772efffc39a296d2a227feb0e2e3f000294384e98b4ea50e5",
     "docs/superpowers/specs/2026-10-15-link-start-design.md": "bb75efc8c785941316cc541ed250628ba3cb3a0b72e7c3bd95877c784daacd62",
-    "LOCAL-VALIDATION.md": "8eeb14760c92c9514999290651ce9cdc50e98dcac71593bc5847f179c67808bb",
+    "LOCAL-VALIDATION.md": "b2b86e7ba81846e33e6b6c05116059d3fbaea852fed539643b2e7196c2326670",
     "README.md": "782ec7aeb66a6602f3ad01044a141afc26a7b6e8c42893c26b768ad803d31f71",
     "references/00-start.md": "f08805170888ced02668d803083e3a374bcbb8cea658ab6577d961daf40e789f",
     "references/01-network.md": "12b9338962408b4c0c9ce6419c6966ea9da487c084a9e854418755c237609211",

@@ -1,6 +1,6 @@
 # 本项目的 AI 入口
 
-正式教程源为公开仓库 `ninedaywoo-web/claude-setup-guide`，后续更新发布到这里。公开版客户读取和下载不需要邀请码或申请权限。另有组织私有交付版 `ninedaywoo-course/claude-setup-guide`，按用户指定同步教程正文，保留其独立版本与鉴权更新机制；领取服务另行维护。
+本增补版发布仓库为 `monadgccg754678-ctrl/claude-setup-guide-windows-ipad`，后续本版更新只从此仓库下载。原教程基线来自 `ninedaywoo-web/claude-setup-guide` v1.0.20；以下主体沿用原版，新增第16章记录 Windows＋iPad 实操差异。公开版客户读取和下载不需要邀请码或申请权限，不进入原作者组织私有领取流程。
 
 本增补版仓库为 monadgccg754678-ctrl/claude-setup-guide-windows-ipad；用户发本仓库链接开始或恢复带做时，先读 references/12-latest-start.md，实时下载并校验最新完整包；成功前不推荐 VPS、不复用本地旧 Skill 或更新缓存。成功后只从返回的新目录读取资料，显示版本并保留原进度。用户仅给本地文件夹时读取 SKILL.md 的日常规则。开始前必须完整阅读 references/01-network.md 和 references/02-browser-iphone.md，其余章节按阶段读。
 

@@ -1,0 +1,2 @@
+# Preserve exact bytes for manifest.json verification on Windows and Unix.
+* -text
