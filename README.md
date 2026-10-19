@@ -1,2 +1,100 @@
-# claude-setup-guide-windows-ipad
-原版教程增补：Windows＋iPad、美区 Apple 礼品卡与 Claude 官方 App 内购，支持 AI 按链接带做。
+# Claude Windows＋iPad 苹果礼品卡带做
+
+把下面这个链接直接交给支持读取 GitHub 和本地文件的 AI，即可从实际进度开始：
+
+**https://github.com/monadgccg754678-ctrl/claude-setup-guide-windows-ipad**
+
+## 给 AI 的启动说明
+用户只发本仓库链接而没有其他任务时，按 AGENTS.md、SKILL.md 与 references/12-latest-start.md 下载并验证完整包，然后从头带做；有账号或已有网络时复用。必须结合 references/16-windows-ipad-apple-practice.md，不要退回原作者仓库覆盖本版。
+
+本版主体沿用原作者 v1.0.20，增加 Windows＋iPad 已完成订阅的实操细节。保留原路线与配图，非原作者官方更新。适用服务地区由官方条件决定，付款、身份验证由用户本人完成，无防封保证。
+
+---
+
+# Claude Max 防封奶妈级教程
+
+这是客户交付的离线图文教程和 AI 带做 Skill。正文、57 张配图及 2 份 VPS 图解 PDF 均在项目内，不需要打开在线文档。
+
+## 给 AI 的入口
+
+如果用户发来本仓库链接并要求开始或恢复带做，必须先执行[链接交付启动流程](references/12-latest-start.md)：实时读取 main、下载最新完整包、核验文件，再从新目录读取 [SKILL.md](SKILL.md)。不直接复用电脑里同名 Skill、旧目录、网页搜索摘要或旧对话推荐，也不以 24 小时缓存代替本次核对。下载或校验失败先暂停带做，不能改用旧版继续推荐 VPS。成功后先告诉用户已下载并校验的版本，再确认设备和进度。收到链接开始带做已包含下载授权，无需再问是否更新。
+
+只提供本地文件夹时，按 SKILL.md 的本地调用规则执行。用户明确要求审查、解释或其他任务时按其要求处理，不触发下载。
+
+## 开始使用
+
+下载完整项目并解压，把整个文件夹交给 Codex 或其他能读取本地文件的 AI。打开 [SKILL.md](SKILL.md)，AI 就知道该做什么，不需要自己写长提示词。只上传 SKILL.md 单个文件会缺少配套教程，请保留完整目录。
+
+本次交付默认采用：前面确认 Google 账号 → VPS 与 Mac Karing／Windows v2rayN（系统代理关闭、TUN＋全局开启）→ AdsPower → 手机小火箭全局代理 → Apple 账户准备 → 手机 Google 登录并订阅 Pro → 回电脑验收权益与正常对话。上面是 iPhone 路线；安卓网络自检后可用手机浏览器进入官网，按 Google Pay 基础指引继续。手机主要用于登录和订阅，Claude Code 安装与使用教学不在本次交付内。没有 Google 账号时，按[账号与两步验证说明](references/08-google-account.md)准备。
+
+AI 会先完整读完[纯净魔法从零部署](references/01-network.md)和[指纹浏览器与 iPhone 网络配置](references/02-browser-iphone.md)，再了解你的设备和进度，每次只带一小步。做完发截图或口述结果即可。Apple、退款和申诉在需要时再读。
+
+准备在 iPhone 使用 Claude 或通过 App Store 订阅时，AI 会主动进入手机网络配置关卡，Mac 优先用 Codex Computer Use 操作 iPhone 镜像，镜像有问题先排查；Windows 默认图解与截图带做，不要求 Apple 原生镜像。小火箭默认使用「全局路由 → 代理」并开启 VPN，手机网络和时区单独验收后再继续；电脑检查结果不能代替手机。
+
+Apple 内购遇到购买限制时，按[人工支持带办流程](references/07-apple-purchase-support.md)，由 Codex 进入官方客服并沟通购买问题，用户完成登录和 Support PIN 输入；客服答复、等待起点、具体重试时间和到期跟进记入本机进度。
+
+准备 Apple 内购时，网络自检通过后再单独确认账户新旧。根据客户反馈，新注册或刚接手的成品号建议先正常使用约两天，暂不充值和订阅；AI 会记住等待安排，恢复时接着做。
+
+想自己看，打开[教程首页](references/00-start.md)，或者阅读随交付包提供的分篇 PDF。每篇正文对应一份 PDF。v1.0.16 客户阅读版包含十篇：原有六篇，加上注册与登录前自检、Apple 购买受限与人工支持、Google 账号准备与两步验证、VPS 注册与购买图解；另外附两份原始 VPS 圈注 PDF。完整阅读版由博主本地打包交付，仓库仍以 Markdown 为正文，只内置两份 VPS 圈注 PDF。PDF 是静态文件，不会随 Skill 更新自动改变，收到时请核对版本与日期。
+
+本仓库已公开。任何人都可以直接查看、下载和检查更新，不需要申请访问权限，也不需要登录 GitHub。你可以把仓库链接交给能读取 GitHub 的 AI，让它先完成最新版下载与校验，再从 SKILL.md 开始。链接交付时暂时无法联网就先解决连接，不自动改用旧副本。
+
+购买 VPS 时，AI 会按所选商家主动展示[搬瓦工注册与 AKILE 选购图解](references/09-vps-purchase.md)。也可直接保存[搬瓦工注册 PDF](assets/vps-purchase/bandwagon-registration.pdf) 和 [VPS 选购 PDF](assets/vps-purchase/vps-purchase-guide.pdf)。
+
+Windows 用户还会读取 [Windows 专门流程](references/10-windows.md)：先保留旧 VPN 测试新节点，再切换到 TUN＋全局并复验；Android 用户可按[官网 Google Pay 基础指引](references/11-android-web-pay.md)继续，付款前先了解案例较少及作者反馈的封号后无法退款风险；支付选项以实际页面为准。Windows 真实整机交付验收仍待完成，本次发布不代表已实测跑通。
+
+## 安装成 Skill
+
+可以直接把项目文件夹交给 AI，无需安装。若希望在 Codex 中长期使用，可让 Codex 将整个 `claude-setup-guide` 目录安装到自己的 `~/.agents/skills/` 下，再用 `$claude-setup-guide` 开始。安装位置已有同名目录时先检查，不覆盖已有进度。
+
+## 更新
+
+**收到仓库链接的交付例外：**每次用户重新发链接开始或恢复带做，先下载最新完整包，不走下面的缓存与等待确认规则。以下规则只用于已完成启动后的日常继续，或用户仅提供本地文件夹的情况。
+
+项目包含自动检查更新的程序。AI 在你调用项目、开始或恢复带做时运行检查；24 小时内重复调用复用本地结果，满 24 小时后下次调用再联网。连续带做跨过这个间隔时也会重新检查。没有调用时不运行，不需要安装后台服务或配置系统定时任务。
+
+发现新版本时，AI 会在本次调用的首个回答末尾提醒：
+
+> 已有最新更新（v1.0.10），建议更新。
+
+上面只是格式示例，实际版本号以检查结果为准。同一次连续带做不会在每条回复重复提醒；下次调用时，如果尚未更新，仍会提醒。更新提醒不打断当前操作，你明确同意后才下载更新。更新保留 `.local/` 中的进度，并留下一份旧版本备份。
+
+手动检查：
+
+```bash
+python3 scripts/update.py check
+```
+
+更新脚本默认匿名访问公开仓库，无需 GitHub 账号、token 或 GitHub CLI。
+
+立即重新联网检查，忽略 24 小时缓存：
+
+```bash
+python3 scripts/update.py check --force
+```
+
+检查记录保存在 `.local/update-check.json`，不会上传。检查失败也会保存本次结果，24 小时内复用并明确标记“未能检查”；需要立即重试可使用 `--force`。只有远端数字版本高于本地才报告新版，本地版本领先时不会建议回退。缓存损坏、系统时间回拨或本地版本变化时重新检查。
+
+同意更新后，让 AI 执行检查结果中的命令；命令锁定刚才检查的提交，避免检查后又更新到别的版本。若本地改过课程文件，脚本会停止覆盖，先保留你的改动。
+
+更新脚本需要 Python 3.9+，不需额外 Python 包。没有 Python 时，可由 AI 直接读取公开仓库中的 `version.json`，再按你确认的版本下载完整 ZIP 并保留进度。
+
+已经下载旧副本的客户，需要先更新一次，才能获得这套检查与末尾提醒规则。安装新规则之后，后续发布的新版本会在客户下次调用时被检查到。维护者发布更新时需要提高 `version.json` 的版本号并更新摘要；只修改正文而不提高版本号，不会触发新版提醒。
+
+## 文件说明
+
+- `SKILL.md`：AI 的带做入口。
+- `references/`：本地说明与完整图文教程，包含登录前自检和 Apple 人工支持带办。
+- `assets/images/`：本地配图。
+- `assets/progress-template.md`：进度模板。
+- `scripts/update.py`：24 小时检查缓存、回答末尾提醒文本及经确认后的更新；`check --force` 可立即重查。
+- `version.json`、`CHANGELOG.md`：版本与更新记录。
+- `.local/`：使用者自己的进度与设置，不上传。
+
+价格、库存和软件界面随时间变化，AI 到选购阶段会查询当时信息。遇到解决不了的问题，或对 AI 的回答不满意，可以去问博主。
+
+## Windows＋iPad＋Apple 礼品卡实操补充版
+原版主体与从头带做流程完整保留；新增 [实操细节](references/16-windows-ipad-apple-practice.md)，覆盖 iPad 节点选中与连接、Apple 账户检查、礼品卡兑换、官方 Claude 注册和内购、Windows Pro 验收、可选 Claude Code 及日常启停。
+把整个文件夹交给 AI，使用补充章节末尾的提示词。私人记录和凭据不在本包；首次按本仓库下载完整包；后续更新只跟踪本仓库，保留用户本地进度。
+来源是原上游 v1.0.20，本包独立版本 1.0.21，并非上游正式发布。保留上游资料与图片来源；公开分发或商用前请确认原素材许可。
+校验：运行 `python scripts/manifest.py` 生成清单，运行 `python scripts/validate_local.py` 验证。

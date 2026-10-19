@@ -1,0 +1,14 @@
+{
+  "version": "1.0.21",
+  "published_at": "2026-10-18",
+  "repository": "monadgccg754678-ctrl/claude-setup-guide-windows-ipad",
+  "branch": "main",
+  "summary": [
+    "保留原版全部章节与顺序",
+    "补充 Windows＋iPad＋Apple 礼品卡实操细节",
+    "区分真实通过与未验证结果；可选 Claude Code 和日常启停"
+  ],
+  "upstream_version": "1.0.20",
+  "distribution": "public-extension",
+  "auto_update": true
+}
